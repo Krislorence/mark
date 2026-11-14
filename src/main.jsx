@@ -253,7 +253,7 @@ function App() {
         <section className="content-section page-width" id="gallery">
           <div className="section-heading">
             <p className="eyebrow">07 <span>—</span> GALLERY</p>
-            <span className="section-note">A FEW MOMENTS WITH FRIENDS</span>
+            <span className="section-note">PEOPLE, PLACES & LITTLE MOMENTS</span>
           </div>
           <div className="gallery-grid">
             {gallery.map((item) => (

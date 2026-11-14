@@ -3,12 +3,13 @@
 window.PORTFOLIO = {
   name: "Mark Abellano",
   initials: "MA",
-  role: " I'M AN IT STUDENT · ASPIRING DESIGNER",
-  intro: "I’m an IT student and creative problem-solver, turning thoughtful ideas into useful digital experiences.",
-  bio: "Write a short introduction about your background, what you enjoy creating, and the kind of opportunities you’re looking for. Make it sound like you.",
+  role: "IT STUDENT · ASPIRING UI/UX DESIGNER",
+  intro: "I’m an Information Technology student who enjoys turning ideas into clear, useful digital experiences through design and web development.",
+  bio: "I’m Mark, an Information Technology student at Computer Communications Development Institute. I’m building my skills in UI/UX design and web development through hands-on projects and online learning. I enjoy creating thoughtful, easy-to-use digital experiences and am excited to keep learning and growing.",
+  profileImage: "profilemark.jpeg",
   email: "markabellano@gmail.com",
-  location: "YOUR CITY, PHILIPPINES",
-  focus: "UI/UX · WEB DEVELOPMENT",
+  location: "Arimbay, Legazpi City, Philippines",
+  focus: "UI/UX DESIGN · WEB DEVELOPMENT",
   // Add your profile links here.
   socials: [
     { label: "GitHub", url: "https://github.com/markabellano608", icon: "⌘" },
@@ -70,22 +71,22 @@ window.PORTFOLIO = {
   ],
   gallery: [
     {
-      title: "My True Friends",
-      category: "Friendship",
-      image: "mytruefriends.jpeg",
-      detail: "thats is all about when we outing together and having fun.",
-    },
-    {
-      title: "Sleeping in the bus",
+      title: "A Day Outdoors",
       category: "TRAVEL",
-      image: "sleeping in the bus.jpeg",
-      detail: "I'm drunken and sleeping in the bus, but I still have fun with my friends."
+      image: "naturetrip.jpeg",
+      detail: "Taking a break to explore the outdoors and enjoy a change of scenery.",
     },
     {
-      title: "chatting with my girlfriend",
-      category: "romance",
-      image: "inlove.jpeg",
-      detail: "i'm chatting with my girlfriend and we are having fun together.",
+      title: "A View Worth the Trip",
+      category: "TRAVEL",
+      image: "unwind.jpeg",
+      detail: "A quiet moment by the coast, taking in the view and enjoying the fresh air.",
+    },
+    {
+      title: "Good Times with Friends",
+      category: "FRIENDSHIP",
+      image: "mytruefriends.jpeg",
+      detail: "One of my favorite memories from a day out with friends.",
     },
   ],
 };
